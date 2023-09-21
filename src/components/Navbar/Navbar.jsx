@@ -8,9 +8,9 @@ export default function Navbar() {
     <nav>
       <div className="container-2">
         <div className="flex ai-center jc-sb">
-          <h1 className="home-logo">SVOOKAT</h1>
+          <h1 className="home-logo">One Store</h1>
           <div className="search flex ai-center">
-            <input className="search-bar" type="search" placeholder="search" />
+            <input className="search-bar" type="search" placeholder="Search" />
             <i className="fa-solid fa-magnifying-glass"></i>
           </div>
           <div className="menu">
@@ -25,7 +25,7 @@ export default function Navbar() {
                 <i className="fa-solid fa-bag-shopping"></i>
               </a>
             </div>
-            <img src="https://www.kejati-bali.go.id/assets/images/no-people.png" alt="" className="pp" />
+            <img src="./public/logo.png" alt="" className="pp" />
           </div>
         </div>
       </div>

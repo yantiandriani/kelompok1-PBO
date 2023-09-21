@@ -1,5 +1,7 @@
 import React from 'react'
 import Navbar from '../components/Navbar/Navbar'
+import Footer2 from "../components/Footer2/Footer2";
+
 
 export default function Checkout() {
   return (
@@ -17,21 +19,21 @@ export default function Checkout() {
             <div className="l-check">
               <div className="check-card">
                 <div className="check-img">
-                  <img src="/pngegg.png" alt="" />
+                  <img src="/tas.png" alt="" />
                 </div>
                 <div className="check-desc">
                   <div className="check-desc-heading flex ai-center jc-sb">
-                    <h1 className="heading">Nike Air Flyknit</h1>
+                    <h1 className="heading">Tas channel</h1>
                     <h1 className="heading">1x</h1>
                   </div>
                   <p className="text">
-                    <span>No : </span>4024
+                    <span>No : </span>00123
                   </p>
                   <p className="text">
-                    <span>Size : </span>42
+                    <span>IdBarang : </span>427889
                   </p>
                   <p className="text">
-                    <span>Price : </span>Rp. 2.500.000
+                    <span>Price : </span>Rp. 1.500.000
                   </p>
                   <div className="action flex ai-center">
                     <button className="btn-1">Cancel</button>
@@ -41,21 +43,21 @@ export default function Checkout() {
               </div>
               <div className="check-card">
                 <div className="check-img">
-                  <img src="/pngegg.png" alt="" />
+                  <img src="/tiung3.png" alt="" />
                 </div>
                 <div className="check-desc">
                   <div className="check-desc-heading flex ai-center jc-sb">
-                    <h1 className="heading">Nike Air Flyknit</h1>
+                    <h1 className="heading">Hijab Dior</h1>
                     <h1 className="heading">1x</h1>
                   </div>
                   <p className="text">
-                    <span>No : </span>4024
+                    <span>No : </span>00124
                   </p>
                   <p className="text">
-                    <span>Size : </span>42
+                    <span>IdBarang : </span>6987875
                   </p>
                   <p className="text">
-                    <span>Price : </span>Rp. 2.500.000
+                    <span>Price : </span>Rp. 350.000
                   </p>
                   <div className="action flex ai-center">
                     <button className="btn-1">Cancel</button>
@@ -65,21 +67,21 @@ export default function Checkout() {
               </div>
               <div className="check-card">
                 <div className="check-img">
-                  <img src="/pngegg.png" alt="" />
+                  <img src="/tas2.png" alt="" />
                 </div>
                 <div className="check-desc">
                   <div className="check-desc-heading flex ai-center jc-sb">
-                    <h1 className="heading">Nike Air Flyknit</h1>
+                    <h1 className="heading">Tas Choach</h1>
                     <h1 className="heading">1x</h1>
                   </div>
                   <p className="text">
-                    <span>No : </span>4024
+                    <span>No : </span>00125
                   </p>
                   <p className="text">
-                    <span>Size : </span>42
+                    <span>IdBarang : </span>423445645
                   </p>
                   <p className="text">
-                    <span>Price : </span>Rp. 2.500.000
+                    <span>Price : </span>Rp. 3.000.000
                   </p>
                   <div className="action flex ai-center">
                     <button className="btn-1">Cancel</button>
@@ -89,21 +91,21 @@ export default function Checkout() {
               </div>
               <div className="check-card">
                 <div className="check-img">
-                  <img src="/pngegg.png" alt="" />
+                  <img src="/tas3.png" alt="" />
                 </div>
                 <div className="check-desc">
                   <div className="check-desc-heading flex ai-center jc-sb">
-                    <h1 className="heading">Nike Air Flyknit</h1>
+                    <h1 className="heading">Tas Balenciaga</h1>
                     <h1 className="heading">1x</h1>
                   </div>
                   <p className="text">
-                    <span>No : </span>4024
+                    <span>No : </span>00126
                   </p>
                   <p className="text">
-                    <span>Size : </span>42
+                    <span>IdBarang : </span>8756542
                   </p>
                   <p className="text">
-                    <span>Price : </span>Rp. 2.500.000
+                    <span>Price : </span>Rp. 2.000.000
                   </p>
                   <div className="action flex ai-center">
                     <button className="btn-1">Cancel</button>
@@ -121,36 +123,36 @@ export default function Checkout() {
                       <input type="checkbox" name="" id="" />
                       <div className="prod flex ai-center jc-sb">
                         <div>
-                          <h1 className="heading">Nike Air Flykint</h1>
-                          <p className="text">Size 42 | 1 pcs</p>
+                          <h1 className="heading">Tas Channel</h1>
+                          <p className="text">IdBarang 427889 | 1 pcs</p>
                         </div>
-                        <h1 className="heading">Rp. 2.500.000</h1>
+                        <h1 className="heading">Rp. 1.500.000</h1>
                       </div>
                     </label>
                     <label className="prod-check flex ai-center">
                       <input type="checkbox" name="" id="" />
                       <div className="prod flex ai-center jc-sb">
                         <div>
-                          <h1 className="heading">Nike Air Flykint</h1>
-                          <p className="text">Size 42 | 1 pcs</p>
+                          <h1 className="heading">Hijab Dior</h1>
+                          <p className="text">IdBarang 6987875 | 1 pcs</p>
                         </div>
-                        <h1 className="heading">Rp. 2.500.000</h1>
+                        <h1 className="heading">Rp. 350.000</h1>
                       </div>
                     </label>
                     <label className="prod-check flex ai-center">
                       <input type="checkbox" name="" id="" />
                       <div className="prod flex ai-center jc-sb">
                         <div>
-                          <h1 className="heading">Nike Air Flykint</h1>
-                          <p className="text">Size 42 | 1 pcs</p>
+                          <h1 className="heading">Tas Choach</h1>
+                          <p className="text">IdBarang 423445645 | 1 pcs</p>
                         </div>
-                        <h1 className="heading">Rp. 2.500.000</h1>
+                        <h1 className="heading">Rp. 3.000.000</h1>
                       </div>
                     </label>
                   </div>
                   <div className="total-pesanan flex ai-center jc-sb">
                     <p className="text">Total Pesanan :</p>
-                    <h1 className="heading">Rp. 7.500.000</h1>
+                    <h1 className="heading">Rp. 4.850.000</h1>
                   </div>
                   <input type="submit" name="" id="" className='submit' value={'Checkout'}/>
                 </form>
@@ -159,6 +161,7 @@ export default function Checkout() {
           </div>
         </div>
       </section>
+      <Footer2 />
     </>
   );
 }

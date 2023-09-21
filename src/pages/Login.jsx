@@ -7,11 +7,11 @@ const Login = () => {
       <section className="register" style={{ marginTop: "5rem" }}>
         <div className="container-2">
           <div className="flex ai-center jc-sb">
-            <img src="/float.png" alt="" />
+            <img src="/logo.png" alt="" />
             <div className="regis">
               <form action="" className="form">
                 <h1 className="logo" style={{ color: "var(--main-color-4)" }}>
-                  SVOOKAT.
+                  One Store
                 </h1>
                 <input type="text" placeholder="Username or email" />
                 <input type="password" placeholder="Password" />

@@ -6,8 +6,8 @@ export default function Footer2() {
     <div className='footer2'>
       <div className="container-2 flex ai-center jc-sb" style={{paddingTop: '3rem', paddingBottom: '3rem'}}>
         <div className="l-footer">
-          <h2 className="heading">SVOOKAT.</h2>
-          <p className="text" style={{marginTop: '5rem'}}>&copy; 2023 svookat.com</p>
+          <h2 className="heading">ONESTORE.</h2>
+          <p className="text" style={{marginTop: '5rem'}}>&copy; 2019 one store.com</p>
         </div>
         <div className="r-footer">
           <form action="" className="flex ai-center jc-sb">
@@ -16,13 +16,13 @@ export default function Footer2() {
           </form>
           <div className="row flex jc-sb" style={{marginTop: '3rem'}}>
             <div className="box">
-              <p className="text">4140 Parker Rd.</p>
+              <p className="text">4220 aplek.</p>
               <p className="text">Soreang, Bandung</p>
-              <p className="text">31134</p>
+              <p className="text">311374</p>
             </div>
             <div class="box">
-              <p href="" className="text">+62 900647723</p>
-              <p href="" className="text">svookat.com</p>
+              <p href="" className="text">+62 593746200</p>
+              <p href="" className="text">onestore.com</p>
             </div>
             <div className="box">
               <ul className="footer-menu">

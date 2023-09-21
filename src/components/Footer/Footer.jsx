@@ -9,7 +9,7 @@ export default function Footer() {
           <a href="" style={{marginRight: '10px'}}>About</a>
           <a href="">Help</a>
         </div>
-        <p style={{color: '#ffffff'}}>&copy; 2023 - Svookat.</p>
+        <p style={{color: '#ffffff'}}>&copy; 2019 - One store.</p>
       </div>
     </footer>
   )
